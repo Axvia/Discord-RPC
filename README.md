@@ -29,7 +29,7 @@ Preview for "Large image" and "Small image" on app:
 
 Full Preview:
 
-![Preview](https://lh3.googleusercontent.com/-Q3OkGX7Gv20/X9oRPpyfakI/AAAAAAAAA4Y/Ir1fy9_wESgFJFh-QpBe5xMF_LkFNxeNACLcBGAsYHQ/Prev2.PNG)
+![Preview](https://lh3.googleusercontent.com/-PABsk9H0ao0/X9oSS9N0PtI/AAAAAAAAA4k/AU8FKlJIbxQBOiTeVeoMgdw9MARZh7v7QCLcBGAsYHQ/Prev2.PNG)
 
 
 *Don't add me as friend with that tag&username. I often change my username and my tag.
