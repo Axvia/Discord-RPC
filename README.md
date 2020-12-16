@@ -12,6 +12,24 @@ How to use ?
 4. Setup your your "state", "details", "large image", "small image", "large image tooltip" and "small image tooltip there". All of them must be filled.
 
 Note :
-1. Once you start the app, the playing time also start immediately.
-2. You cannot reset your playing time.
-3. Not compatible with windows 7. This app already tested on windows 8.
+1. "Large image" and "Small image" are obtained from rich presence on [Discord Developer Portal](https://discord.com/developers/applications/rich-presence/assets). First you need to upload your favorite image(s) there. Image dimension: 512x512 minimum. 
+
+Preview:
+
+![Preview](https://lh3.googleusercontent.com/-2TRltB77Rjc/X9oQS5QbmjI/AAAAAAAAA4I/MaNW1b-fiJkGFjdE7_cGZ0jOKPFNZ3aJgCLcBGAsYHQ/Prev.PNG)
+
+Preview for "Large image" and "Small image" on app:
+
+![Preview](https://lh3.googleusercontent.com/-geS8wu383Ss/X9oQUeCigHI/AAAAAAAAA4M/pPk1_tR4hnEmFfbNJLOY_VgLuK98PvNzgCLcBGAsYHQ/Prev1.PNG)
+
+2. Once you start the app, the playing time also start immediately.
+3. You cannot reset your playing time.
+4. Not compatible with windows 7. This app already tested on windows 8.
+
+
+Full Preview:
+
+![Preview](https://lh3.googleusercontent.com/-Q3OkGX7Gv20/X9oRPpyfakI/AAAAAAAAA4Y/Ir1fy9_wESgFJFh-QpBe5xMF_LkFNxeNACLcBGAsYHQ/Prev2.PNG)
+
+
+*Don't add me as friend with that tag&username. I often change my username and my tag.
