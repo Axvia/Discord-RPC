@@ -25,7 +25,7 @@ Preview for "Large image" and "Small image" on app:
 2. Once you start the app, the playing time also start immediately.
 3. You cannot reset your playing time.
 4. Not compatible with windows 7. This app already tested on windows 8.
-
+5. Discord Windows should be run first.
 
 Full Preview:
 
