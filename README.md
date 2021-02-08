@@ -1,4 +1,4 @@
-# AX-Discord-Rich-Presence
+# Discord RPC - by Axvia
 Simple Discord Rich Presence by Alxevia
 
 Preview:
